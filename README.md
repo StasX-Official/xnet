@@ -2,10 +2,10 @@
 
 # XNET – Professional Network Administration & Security Toolkit
 
-[![GitHub](https://img.shields.io/badge/GitHub-StasX--Official/xnet-blue?logo=github)]
-[![Release](https://img.shields.io/badge/release-1.1.0-green)]
-[![Python](https://img.shields.io/badge/python-3.6%2B-blue?logo=python)]
-[![License](https://img.shields.io/badge/license-MIT-blue)]
+![GitHub](https://img.shields.io/badge/GitHub-StasX--Official/xnet-blue?logo=github)
+![Release](https://img.shields.io/badge/release-1.1.0-green)
+![Python](https://img.shields.io/badge/python-3.6%2B-blue?logo=python)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 **XNET** is a comprehensive, extensible CLI suite for network diagnostics, security auditing, traffic analysis, and administration. Designed for system administrators, DevOps, security professionals, and network engineers.
 
