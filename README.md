@@ -6,6 +6,14 @@
 ![Release](https://img.shields.io/badge/release-1.1.0-green)
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+![platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-blue)
+![pip](https://img.shields.io/badge/pip-install-orange)
+![last commit](https://img.shields.io/github/last-commit/StasX-Official/xnet)
+![issues](https://img.shields.io/github/issues/StasX-Official/xnet)
+![AI-Ready](https://img.shields.io/badge/AI-Security-orange)
+![Security](https://img.shields.io/badge/security-audited-important)
+
+# XNET – Professional Network Administration & Security Toolkit
 
 **XNET** is a comprehensive, extensible CLI suite for network diagnostics, security auditing, traffic analysis, and administration. Designed for system administrators, DevOps, security professionals, and network engineers.
 
@@ -217,13 +225,10 @@ xnet interactive
 Use **Tab** for commands and parameters, **Ctrl+C** to exit.
 
 ---
-## 🛡 Legal Use
+## Legal Use
 
 XNET is developed for ethical hacking, network diagnostics, education, and research purposes. It must not be used against any network or system without explicit permission from its owner. The author is not responsible for misuse or illegal activities.
 
----
-
----
 
 ## 🆘 Troubleshooting & Support
 
@@ -234,6 +239,7 @@ XNET is developed for ethical hacking, network diagnostics, education, and resea
 **GitHub Issues**: https://github.com/StasX-Official/xnet/issues
 
 ---
+> ⚠️ Disclaimer: XNET is an open-source software toolkit for ethical and educational purposes only. It is not affiliated with, sponsored by, or associated with any Internet Service Provider or trademark holder named "XNET" or similar. This software does not provide any internet access services or operate as a network provider.
 
 ## 📜 License
 
