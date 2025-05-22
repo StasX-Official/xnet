@@ -13,8 +13,6 @@
 ![AI-Ready](https://img.shields.io/badge/AI-Security-orange)
 ![Security](https://img.shields.io/badge/security-audited-important)
 
-# XNET – Professional Network Administration & Security Toolkit
-
 **XNET** is a comprehensive, extensible CLI suite for network diagnostics, security auditing, traffic analysis, and administration. Designed for system administrators, DevOps, security professionals, and network engineers.
 
 ---
