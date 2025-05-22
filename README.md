@@ -217,6 +217,13 @@ xnet interactive
 Use **Tab** for commands and parameters, **Ctrl+C** to exit.
 
 ---
+## 🛡 Legal Use
+
+XNET is developed for ethical hacking, network diagnostics, education, and research purposes. It must not be used against any network or system without explicit permission from its owner. The author is not responsible for misuse or illegal activities.
+
+---
+
+---
 
 ## 🆘 Troubleshooting & Support
 
